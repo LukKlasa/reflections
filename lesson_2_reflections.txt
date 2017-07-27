@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository in the current folder was create new hidden folder called .git. Git doesnt create any commit. To show the information about the new repository I write comand git status.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is between working directory and the repository. It offers smalles memory using when new commit is created.
