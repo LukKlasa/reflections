@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository in the current folder was create new hidden folder called .git. Git doesnt create any commit. To show the information about the new repository I write comand git status.
