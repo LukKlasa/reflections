@@ -3,3 +3,12 @@ When I initialize a repository in the current folder was create new hidden folde
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is between working directory and the repository. It offers smalles memory using when new commit is created.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use staging area to compare last comit with it, because staging area contains changes made by me.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Thanks to branches I can work at new feature kind of separately of the main brach of project. Then I can check if all is ok and I can add my changes to main branch, it is called merging.
+
+How do the diagrams help you visualize the branch structure?
+Thanks to diagram it is easier to know on which diagram I am and whitch commits are reachable for me from branch on whitch I actually am.
